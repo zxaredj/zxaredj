@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Zxared Jay! </br>
+Aspiring Data Analyst | Information Systems Student 📊</br></br>
 
-<!--
-**zxaredj/zxaredj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student passionate about data analytics and continuous learning. I build projects to apply real-world data analysis techniques, enhance my skills, and connect with fellow analysts.</br></br>
 
-Here are some ideas to get you started:
+🔹 What I Do:</br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore Python, SQL, Power BI, and machine learning</br>
+Analyze datasets to uncover insights and trends</br>
+Share my learning journey through open-source projects</br>
+💡 I'm always open to networking, collaboration, and knowledge sharing. Let's grow together in the world of data! 🚀</br></br>
+
+📫 Feel free to connect and check out my repositories!
